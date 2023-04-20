@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  background-image: url("https://wallpapercave.com/wp/wp4288362.jpg");
+  background-repeat: no-repeat;
+  height:"700px";
+  width:"1200px";
+
+  }
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  color: #000000;
+}
+
+.hma{
+  color: black;
+  margin-left: 25px;
+}
+
+input{
+margin-top: 1%;
+} 
+
+img{
+width: 150px;
+height: 150px;
+padding: 5px;
+}
